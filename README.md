@@ -6,5 +6,3 @@ Matrix Generator can
 4. Transpose a matrix
 5. Calculate a determinant
 6. Inverse a matrix
-
-To use it you need [NumPy](https://numpy.org/install/).
